@@ -1,5 +1,8 @@
 # Swarm Talks
 
+O Swarm Talks é um circuito de palestras que visa aprimorar a habilidade de falar em público no time.
+Mais do que ouvir sobre o assunto abordado na palestra, o grupo ajudará a avaliar e sugerir melhoras na apresentação em si, em quesitos como tom de voz, clareza na fala, atitude corporal e qualidade do material de apoio.
+
 ### Motivação 
 
 Aprimoramento em apresentações e compartilhamento de conteúdo
